@@ -2,7 +2,7 @@
    
 **[#️⃣ مشاهده لیست فایل‌های دانلود شده](./Links.md#)**
  
-**[#️⃣ آپلود فایل](https://github.com/behzad9-pixel/mydowns/actions/workflows/Start.yml#)**
+**[#️⃣ آپلود فایل](https://github.com/behzad9-pixel/mydowns/actions/workflows/Start.yml)**
 
 </div><br><br/>  
 
